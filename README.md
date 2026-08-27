@@ -30,7 +30,7 @@
 
 ## Screenshots
 
-> _Add screenshots here — e.g. `![Sender panel](screenshots/sender.png)`_
+
 
 ---
 
